@@ -5,5 +5,6 @@
 int main(int argc, char const *argv[])
 {
     printf("Hello git");
+    printf("Hello git from visual stduio\N");
     return 0;
 }
